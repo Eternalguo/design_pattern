@@ -1,5 +1,6 @@
 package uestc.glb.design.creational.simplefactroy;
 
+
 public class VideoFactory {
     // 这种实现添加新的产品时，需要修改简单工厂类，违背开闭原则
     public Video getVideo(String type){

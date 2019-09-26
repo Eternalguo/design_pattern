@@ -1,6 +1,5 @@
 package uestc.glb.design.creational.simplefactroy;
 
-
 /**
  * Test相当于一个应用层或者客户端client
  */
