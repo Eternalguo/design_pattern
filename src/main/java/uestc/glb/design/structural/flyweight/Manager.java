@@ -1,4 +1,4 @@
-package uestc.glb.flyweight;
+package uestc.glb.design.structural.flyweight;
 
 public class Manager implements Employee {
     private String title = "部门经理";//内部状态，外部不能修改，不随着外部改变而改变

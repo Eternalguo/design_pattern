@@ -1,4 +1,4 @@
-package uestc.glb.flyweight;
+package uestc.glb.design.structural.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;

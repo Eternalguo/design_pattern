@@ -1,4 +1,4 @@
-package uestc.glb.flyweight;
+package uestc.glb.design.structural.flyweight;
 
 /**
  * 享元模式重在共享对象
