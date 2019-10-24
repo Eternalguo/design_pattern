@@ -1,4 +1,4 @@
-package uestc.glb.principle.singleresposiblity.singleresposibilityinterface;
+package uestc.glb1.principle.singleresposiblity.singleresposibilityinterface;
 
 public class CourseImpl implements ICourseContent, ICourseMannager {
     @Override

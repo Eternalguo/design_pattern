@@ -1,4 +1,4 @@
-package uestc.glb.principle.demeter;
+package uestc.glb1.principle.demeter;
 
 public class Test {
     public static void main(String[] args) {

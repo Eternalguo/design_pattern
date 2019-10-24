@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.singleton;
+package uestc.glb1.design.creational.singleton;
 
 /**
  * 通过反编译工具jad可以清楚的看到枚举类的具体实现
@@ -12,7 +12,7 @@ public enum EnumSingleton {
     INSTANCE {
         // 申明枚举类的方法
         protected void print(){
-            System.out.println("glb");
+            System.out.println("glb1");
         }
     };
     protected abstract void print();
@@ -29,7 +29,7 @@ public enum EnumSingleton {
 
     public static EnumSingleton valueOf(String name)
     {
-        return (EnumSingleton)Enum.valueOf(uestc/glb/design/creational/singleton/EnumSingleton, name);
+        return (EnumSingleton)Enum.valueOf(uestc/glb1/design/creational/singleton/EnumSingleton, name);
     }*/
     public Object getData() {
         return data;

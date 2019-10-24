@@ -1,4 +1,4 @@
-package uestc.glb.principle.interfacesegregation;
+package uestc.glb1.principle.interfacesegregation;
 
 /**
  * Dog不应该依赖总的接口，而应该实现只用自己相关的接口

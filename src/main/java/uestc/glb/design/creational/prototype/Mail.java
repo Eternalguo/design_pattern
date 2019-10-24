@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.prototype;
+package uestc.glb1.design.creational.prototype;
 
 public class Mail implements Cloneable{
     private int value;

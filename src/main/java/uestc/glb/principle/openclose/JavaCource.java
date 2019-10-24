@@ -1,4 +1,4 @@
-package uestc.glb.principle.openclose;
+package uestc.glb1.principle.openclose;
 
 public class JavaCource implements ICourse{
     private Integer ID;

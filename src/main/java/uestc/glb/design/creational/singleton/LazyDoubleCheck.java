@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.singleton;
+package uestc.glb1.design.creational.singleton;
 
 /**
  * 双重检查注重延迟加载和线程安全,减小锁对性能的消耗

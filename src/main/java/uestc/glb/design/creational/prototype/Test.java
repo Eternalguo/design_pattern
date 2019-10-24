@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.prototype;
+package uestc.glb1.design.creational.prototype;
 
 /**
  * 在使用原型模式的时候要注意浅拷贝和深拷贝的问题而引发的bug，Jdk中默认实现是浅拷贝

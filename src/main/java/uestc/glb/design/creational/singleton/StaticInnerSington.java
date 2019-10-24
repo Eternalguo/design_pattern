@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.singleton;
+package uestc.glb1.design.creational.singleton;
 
 /**
  * 基于静态内部类的类初始化的延迟加载解决方案，JVM在执行类的初始化阶段会去获取一个类的初始化锁，这个锁可以同步

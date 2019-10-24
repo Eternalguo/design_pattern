@@ -1,4 +1,4 @@
-package uestc.glb.design.structural.decorator;
+package uestc.glb1.design.structural.decorator;
 
 /**
  * 声明为抽象装饰类是为了添加一个protected doSomething抽象方法，所有具体装饰类都需实现此方法完成一个统一的

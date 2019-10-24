@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.simplefactroy;
+package uestc.glb1.design.creational.simplefactroy;
 
 
 public class VideoFactory {

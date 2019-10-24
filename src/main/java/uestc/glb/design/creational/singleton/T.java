@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.singleton;
+package uestc.glb1.design.creational.singleton;
 
 public class T implements Runnable{
     @Override

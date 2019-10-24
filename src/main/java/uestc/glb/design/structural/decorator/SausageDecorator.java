@@ -1,4 +1,4 @@
-package uestc.glb.design.structural.decorator;
+package uestc.glb1.design.structural.decorator;
 
 public class SausageDecorator extends Adecorator {
     public SausageDecorator(ABatterCake batterCake) {

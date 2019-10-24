@@ -1,4 +1,4 @@
-package uestc.glb.design.structural.decorator;
+package uestc.glb1.design.structural.decorator;
 
 public class EggDecorator extends Adecorator {
     // 因为父类没有无参构造器，需要显示调用

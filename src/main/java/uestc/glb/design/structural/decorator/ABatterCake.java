@@ -1,4 +1,4 @@
-package uestc.glb.design.structural.decorator;
+package uestc.glb1.design.structural.decorator;
 //抽象的实体类
 public abstract class ABatterCake {
     protected abstract String getDesc();

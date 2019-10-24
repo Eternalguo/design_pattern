@@ -1,9 +1,6 @@
-package uestc.glb.design.creational.singleton;
-
-import javafx.scene.input.ScrollEvent;
+package uestc.glb1.design.creational.singleton;
 
 import java.io.*;
-import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 public class Test {
@@ -44,7 +41,7 @@ public class Test {
 //        Class clazz = EnumSingleton.class;
 //        Constructor constructor = clazz.getDeclaredConstructor(String.class, int.class);
 //        constructor.setAccessible(true);
-//        EnumSingleton instance = (EnumSingleton) constructor.newInstance("glb", 666);
+//        EnumSingleton instance = (EnumSingleton) constructor.newInstance("glb1", 666);
 //        System.out.println(instance);
 //        System.out.println(newInstance);
 //        System.out.println(instance == newInstance);

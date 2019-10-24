@@ -1,4 +1,4 @@
-package uestc.glb.principle.dependenceinverse;
+package uestc.glb1.principle.dependenceinverse;
 
 public class PythonCourse implements ICourse {
     @Override

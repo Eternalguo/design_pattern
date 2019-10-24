@@ -1,4 +1,4 @@
-package uestc.glb.design.structural.facade;
+package uestc.glb1.design.structural.facade;
 
 public class OrderService {
     public String order(Gift gift){

@@ -1,4 +1,4 @@
-package uestc.glb.design.structural.facade;
+package uestc.glb1.design.structural.facade;
 
 /**
  * 礼物兑换的对外统一服务类

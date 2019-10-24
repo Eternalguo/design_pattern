@@ -1,4 +1,4 @@
-package uestc.glb.principle.singleresposiblity.singleresposibilityclass;
+package uestc.glb1.principle.singleresposiblity.singleresposibilityclass;
 
 public class Test {
     public static void main(String[] args) {

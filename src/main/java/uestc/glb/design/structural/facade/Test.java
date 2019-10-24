@@ -1,4 +1,4 @@
-package uestc.glb.design.structural.facade;
+package uestc.glb1.design.structural.facade;
 
 /**
  * 外观模式对外提供统一的接口访问子系统的接口，比如例子中的礼物兑换接口提供了统一的访问接口exchangeGift，

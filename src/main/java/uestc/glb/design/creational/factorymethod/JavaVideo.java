@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.factorymethod;
+package uestc.glb1.design.creational.factorymethod;
 
 public class JavaVideo extends Video {
     @Override

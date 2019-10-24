@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.prototype;
+package uestc.glb1.design.creational.prototype;
 
 import java.text.MessageFormat;
 

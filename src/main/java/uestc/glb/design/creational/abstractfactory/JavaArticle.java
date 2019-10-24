@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.abstractfactory;
+package uestc.glb1.design.creational.abstractfactory;
 
 public class JavaArticle extends Article {
     @Override

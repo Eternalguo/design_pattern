@@ -1,4 +1,4 @@
-package uestc.glb.principle.openclose;
+package uestc.glb1.principle.openclose;
 
 public class Test {
     public static void main(String[] args) {

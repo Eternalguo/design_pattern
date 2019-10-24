@@ -1,4 +1,4 @@
-package uestc.glb.principle.demeter;
+package uestc.glb1.principle.demeter;
 
 import java.util.ArrayList;
 import java.util.List;

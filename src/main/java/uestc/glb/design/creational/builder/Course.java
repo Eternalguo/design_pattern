@@ -1,4 +1,4 @@
-package uestc.glb.design.creational.builder;
+package uestc.glb1.design.creational.builder;
 
 /**
  * 建造者模式，创建一个对象时需要很多步骤使用建造者模式
