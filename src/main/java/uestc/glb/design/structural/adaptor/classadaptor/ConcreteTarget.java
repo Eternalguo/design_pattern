@@ -1,4 +1,4 @@
-package uestc.glb1.design.structural.adaptor.classadaptor;
+package uestc.glb.design.structural.adaptor.classadaptor;
 
 public class ConcreteTarget implements Target {
     @Override

@@ -1,4 +1,4 @@
-package uestc.glb1.design.creational.builder;
+package uestc.glb.design.creational.builder;
 
 public class Test {
     public static void main(String[] args) {

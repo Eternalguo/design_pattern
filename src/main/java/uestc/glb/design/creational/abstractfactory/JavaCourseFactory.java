@@ -1,4 +1,4 @@
-package uestc.glb1.design.creational.abstractfactory;
+package uestc.glb.design.creational.abstractfactory;
 
 public class JavaCourseFactory implements CourseFacory{
     @Override
